@@ -25,7 +25,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.2",
     "uniqCompNum": 74,
-    "versionPublish": "4.6.2"
+    "versionPublish": "4.6.6",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
