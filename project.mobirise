@@ -17,7 +17,7 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
+        "isScrollToTopButton": false,
         "isRtl": false
       },
       "additionalSetColors": []
@@ -25,8 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.2",
     "uniqCompNum": 74,
-    "versionPublish": "4.6.2",
-    "screenshot": "screenshot.png"
+    "versionPublish": "4.6.2"
   },
   "pages": {
     "index.html": {
